@@ -1,2 +1,3 @@
 # lianxi
-练习变成
+练习编程
+HELLP WORD I LIKE Github
